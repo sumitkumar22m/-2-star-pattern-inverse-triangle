@@ -1,0 +1,1 @@
+# -2-star-pattern-inverse-triangle

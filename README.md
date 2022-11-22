@@ -2,7 +2,7 @@
 
 2. Language = c
 
-3. Output = Hello guys in this code i will show you a star pattern and it is like a inverted triangle which is under below.
+3. Output = Hello guys in this code i am show you a star pattern and it is like a inverted triangle which is under below.
 
                            *********
                             *******
